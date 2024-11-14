@@ -1,5 +1,2 @@
 ### Hello World 👋
-
-#### These are the links to websites that seem useful:
-- [IoT for Beginners.](https://microsoft.github.io/IoT-For-Beginners/#/)
-- [Web Dev for Beginners.](https://microsoft.github.io/Web-Dev-For-Beginners/#/)
+I am Varun Pai M D, a B.tech student at NMAM Institute of Technology, Nitte, majoring in Computer Science.  
